@@ -42,7 +42,7 @@ border-radius: 50%;
     width: 30%;
     position: absolute;
     bottom: 100px;
-    animation: moveacar 1s linear ;
+    animation: moveacar 1s linear infinite;
 }
 @keyframes moveacar {
     0%{
